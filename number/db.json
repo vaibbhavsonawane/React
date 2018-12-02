@@ -1,0 +1,70 @@
+{
+  "numbers": [
+    { 
+        "id": 0,
+        "name": "zero",
+        "cover":"zero",
+        "info":" 'O' stands for infinity, the Infinite boundless being, the origin Of all things, the brahmand or the egg of the Universe, the solar system in its entirely. Therefore it signifies universality, cosmopolitanism. It also stands for negation and limitation. Thus '0' means the infinitely great and the infinitely small. It means the circle of infinity and the point at the centre, the atom."
+        
+    },
+    { 
+        "id": 1,
+        "name": "one",
+        "cover":"one", 
+        "info":"its nature is intellectual and masculine. It denotes change and pioneering work. New events, new conditions and travel are indicated when the number1 appears in the birth-date or a name. It indicates will power to achieve one's goal. However, if the number is not achieved for its goal, it becomes domineering, ruthless, selfish and makes self-gratification its new aim, rationalising its acts as duty. The planetry equivalent of the number 1 is the sun, symbolic of life-giving days, creation, vitality, new beginnings intellectual qualities, inventiveness, genius, originality and brilliance.",
+        "days": "Sundays, Mondays and Thursdays.",
+        "date": " 1, 10 , 28. ",
+        "year": "1, 19, 28, 37, 46, 55, 64, 73 etc. ",
+        "color": " all shades of gold and yellow and also of orange and purple . ",
+        "stone": "ruby and emerald and lucky stones are moonstone and pale green stone."
+    },
+    { 
+        "id": 2,
+        "name": "two", 
+        "cover":"two",
+        "info":"It symbolises building into form. It is the second deliberate act (after creation). It is feminine in nature and so represents a woman. It is emotional and intuitive. It represents the law of cooperation. It is slow in nature and warm in temperament. If this number appears in a name, it stands for the ability to develop tact and diplomacy. The other side of this number shows timidity, deceit and secrecy The planetary equivalent of the number 2 is the Moon, symbolic of woman, domesticity, helpfulness, cycles, instability and deliberation."
+    },
+    { 
+        "id": 3,
+        "name": "three", 
+        "cover":"three", 
+        "info":"It represents the law of love and affection. It deals with people and reigns over family life and social contacts This is the number of expression, it brings both the intellect and the intuition to play in the various fields of art. It is a joyful number giving the opportunity for play and entertainment. It is both hopeful and wishful in temperament If this number appears in a name, it denotes popularity, child marriage and intrigue. When this number is used for ethical ends, it spells achievement; when it is not, it denotes carelessness, a happy-go-lucky attitude and the scattering of one's talents."
+    },
+    { 
+        "id": 4,
+        "name": "four", 
+        "cover":"four", 
+        "info":"This number shows hard work. It indicates the building of a firm foundation. It endows the power to organise and to work in organisation. It is cold, intellectual and slow in its nature. In a name, it represents discipline; in a cydle, it represents restriction brought about by the need to work hard. It represents the law of justice without mercy tolerance or sympathy. The planet allotted to number 4 is Uranus which shows activity, energy, upheavals in life."
+    },
+    { 
+        "id": 5,
+        "name": "five", 
+        "cover":"five", 
+        "info":"It stands for law, and for new experiences. It shows change, travel, new friends and it is detached from everything. It means art, interest in religion and in religious institutions. It is rapid in nature, careless in action and speculative in temperament. Above all, it demands frecdom of action. This number represents salesmanship and research; it secks present happiness and cares little for cost or consequence. The planet of the number 5 is Mercury which is symbolic of speed, changeabiliy, temperament, writing, talking, travel, contacts and radio."
+    },
+    { 
+        "id": 6,
+        "name": "six", 
+        "cover":"six", 
+        "info":"It shows the law of material supply. It brings money to those who work hard. It is concerned with education and married life. Harmony at home and in community results from its vibrations. It deals with large groups and institutions. Its aim is to establish beauty, harmony and rhythm. If the number 6 appears in a name, it necds to take responsibility dauly life. It is a combination of the intellectual and the emotional. The planet of number 6 is Venus. It represents beauty, art, decoration, sympathy and cooperation."
+    },
+    { 
+        "id": 7,
+        "name": "seven", 
+        "cover":"seven", 
+        "info":"This number symbolises the law of culture, It is cold and intellectual in nature. It is the number of inventors, musicians and composers. It deals with the home and the responsibilities of the houschold. It shows good health and conduct and philosophical nature. When this number is not used properly, it shows deceit and stubbornness. The planetary equivalent of the number 7 is Neptune. It shows study, research, loneliness, aloofness and mysticism."
+    },
+    { 
+        "id": 8,
+        "name": "eight", 
+        "cover":"eight", 
+        "info":"This number is cold and masculine in nature. It shows good health, energy and endurance. It symbolises justice with mercy. It is the number of power. If this number is lucky, it brings wealth. It shows discipline, method, regularity system. The power it endows is to be used for the improvement of mankind and if it is diverted to other uses, it brings destruction, in the end destroying itself. The planet concerned with number 8 is Saturn which deals with the law of Karma. It deals with the occult, with philosophy and with cultural development. It governs the fine arts which do not come under the rule of number 8. This is the number which puts one through life's tests. It establishes the balance of material, spiritual and bodily things."
+    },
+    { 
+        "id": 9,
+        "name": "nine", 
+        "cover":"nine", 
+        "info":"This number is hot and masculine in nature It shows enthusiasm, activity, energy, quarrels, war, fight and aggression. It is a spiritual number and a person dominated by this number has vibrational force radiating healing powers. The planet concerned with this number is Mars which is the symbol of war, hot temper, arrogance and strength."
+    }
+  ]
+}
